@@ -1,0 +1,35 @@
+ul li {
+    display:inline ;
+}
+.top ul{
+    text-align:right;
+    }
+
+    .nav{
+        background-color: rgba(255, 255, 255, 0.61);
+        padding: 15px;
+        background-size:contain;
+    }
+    h3{
+        color: rgb(4, 94, 105);
+    }
+
+    h5{
+        color: rgb(0, 0, 0);
+    }
+    #subtitulo1{
+        color: rgb(0, 0, 0);
+    }
+
+    h5 a href{
+        color: rgb(0, 0, 0);
+    }
+
+   
+    h5 a{
+        color: rgb(0, 0, 0);
+    }
+
+     li a{
+        color: rgb(0, 0, 0);
+    }

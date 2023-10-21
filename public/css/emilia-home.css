@@ -1,0 +1,51 @@
+body{
+    background-image:url("/img/emilia.jpeg") ;
+    background-repeat:no-repeat;
+   height: 800px;
+   background-size: contain;
+   width: 90%;
+   background-position:right top;
+   background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    display:inline ;}
+
+h1{
+    text-align:left;
+    }
+   
+   
+    
+         body h1{
+            background-color:  rgba(255, 255, 255, 0.61);;
+            background-position:left center;
+            padding: 20px;
+            padding-left: 55%;
+            background-size:contain;
+            text-align:start;
+            font-size: 265%;
+            
+           
+           
+        }
+           nav ul li{  background-color: rgb(255, 255, 255);
+            color: black;
+        }
+
+        h3 {text-align:initial;
+            font: 200;
+
+        }
+
+     nav ol li a{   color: rgb(0, 0, 0);
+
+                }
+
+                h3 {
+
+margin-top:80px;
+font-size:30px;
+                }
+
+

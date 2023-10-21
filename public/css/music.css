@@ -1,0 +1,29 @@
+body{
+    background-image: url("/img/emilia-music-top.jpg");
+    background-repeat:no-repeat;
+   height: 600px;
+   background-size: contain;
+   width: 99%;
+   background-position: right top;
+
+}
+
+
+ul li {
+    display:inline ;
+   
+   
+}
+
+.top ul{
+text-align: right;
+
+}
+.nav{
+    background-color: rgba(240, 248, 255, 0.665);
+    padding: 20px;
+}
+
+h1{
+    font-size:40px;
+}
